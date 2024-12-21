@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363932236910",
+    "project_id": "rei-da-b048d",
+    "storage_bucket": "rei-da-b048d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363932236910:android:123898ddf2001861fc7a7f",
+        "android_client_info": {
+          "package_name": "com.rei.tapioca.rei_da_tapioca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKssBif1lHK4wOBc2tQexCF0WXz9GIrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
